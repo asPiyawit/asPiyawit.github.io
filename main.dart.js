@@ -56207,7 +56207,7 @@ $0:function(){K.hh(this.a,!1).cJ(0)},
 $S:3}
 K.Vz.prototype={
 $1:function(a){var s=null,r=T.cj(s,15,s),q=M.aR(s,L.cU("My Recent TOEIC Score",A.cc(s,s,s,s,s,s,s,s,"Anton",s,s,18,s,C.am,s,s,!0,s,s,s,s,s,s,s),s,s),s,s,s,s,s,s),p=T.cj(s,15,s),o=H.b([new O.cl(1,P.aq(C.d.al(76.5),0,0,0),C.i,5)],t.ec),n=K.mw(new P.b1(20,20)),m=t.a
-o=T.d1(H.b([r,T.d1(H.b([q,p,M.aR(s,T.a5t(K.yE(20),U.AX("../assets/images/TOEIC.jpg",s,600)),s,new S.bs(s,s,s,n,o,s,C.w),s,s,s,s),M.aR(s,L.cU("(was taken in 2017 -> can retake upon request)",A.cc(s,s,s,s,s,s,s,s,s,s,s,13,s,s,s,s,!0,s,s,s,s,s,s,s),s,s),s,s,s,s,s,s)],m),C.W,C.X,C.R)],m),C.W,C.X,C.R)
+o=T.d1(H.b([r,T.d1(H.b([q,p,M.aR(s,T.a5t(K.yE(20),U.AX("assets/images/TOEIC.jpg",s,600)),s,new S.bs(s,s,s,n,o,s,C.w),s,s,s,s),M.aR(s,L.cU("(was taken in 2017 -> can retake upon request)",A.cc(s,s,s,s,s,s,s,s,s,s,s,13,s,s,s,s,!0,s,s,s,s,s,s,s),s,s),s,s,s,s,s,s)],m),C.W,C.X,C.R)],m),C.W,C.X,C.R)
 return E.a5f(H.b([B.SX(L.cU("Close",s,s,s),new K.Vy(a))],m),o)},
 $S:63}
 K.Vy.prototype={
@@ -56263,7 +56263,7 @@ V.VH.prototype={
 $2:function(a,b){E.a84(new V.VJ(b,this.a),a,t.z)},
 $S:336}
 V.VJ.prototype={
-$1:function(a){var s=null,r=t.a,q=T.d1(H.b([T.cj(s,15,s),M.aR(s,U.AX("../assets/images/"+this.a,this.b.a.b*0.7,s),s,s,s,s,s,s)],r),C.W,C.X,C.R)
+$1:function(a){var s=null,r=t.a,q=T.d1(H.b([T.cj(s,15,s),M.aR(s,U.AX("assets/images/"+this.a,this.b.a.b*0.7,s),s,s,s,s,s,s)],r),C.W,C.X,C.R)
 return E.a5f(H.b([B.SX(L.cU("Close",s,s,s),new V.VI(a))],r),q)},
 $S:63}
 V.VI.prototype={
@@ -56288,7 +56288,7 @@ return M.aR(s,T.Pn(L.cU(a,A.cc(s,s,C.j,s,s,s,s,s,"Raleway",s,s,20,s,s,s,s,!0,s,s
 $S:32}
 V.VC.prototype={
 $1:function(a){var s=null
-return M.aR(s,R.QV(!1,!0,T.a5t(K.mw(new P.b1(10,10)),U.AX("../assets/images/"+a,130,s)),s,!0,s,s,s,s,s,s,s,s,s,new V.VD(this.a,this.b,a),s,s,s),s,s,s,new V.at(20,20,20,20),s,s)},
+return M.aR(s,R.QV(!1,!0,T.a5t(K.mw(new P.b1(10,10)),U.AX("assets/images/"+a,130,s)),s,!0,s,s,s,s,s,s,s,s,s,new V.VD(this.a,this.b,a),s,s,s),s,s,s,new V.at(20,20,20,20),s,s)},
 $S:32}
 V.VD.prototype={
 $0:function(){return this.a.$2(this.b,this.c)},
